@@ -1,6 +1,6 @@
 import React from 'react';
 import {CardElement} from 'react-stripe-elements';
-import './App.css';
+
 
 const style = {
   base: {
